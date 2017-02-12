@@ -1,3 +1,3 @@
-# STM32_NRF24L01
+# STM32 + NRF24L01
 
 Project for Keil MDK5
